@@ -1,0 +1,4 @@
+
+Welcome to git session
+We are ready to learn git
+
